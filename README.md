@@ -8,7 +8,7 @@ The goal is to learn by doing, improve my problem-solving skills, and keep a rec
 
 ## 📚 What I'm Learning
 
-Throughout this journey, I'll be exploring topics such as:
+Throughout this journey, topics such as:
 
 * 🐍 Python fundamentals
 * 📦 Variables and data types
